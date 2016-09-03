@@ -8,4 +8,4 @@ docker create \
   -v /opt/flexget:/config \
   kmlucy/docker-flexget
 ```
-Uses smdion/docker-flexget
+Based on [smdion/docker-flexget](https://github.com/smdion/docker-containers/tree/master/flexget)
